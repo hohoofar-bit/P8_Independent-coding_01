@@ -1,8 +1,8 @@
 {
  "coder_id": "Coder 01",
  "notebook": "coder-notebook v3 (2026-10-02, package v2.2)",
- "started_at": "2026-10-02T00:26:51Z",
- "exported_at": "2026-10-02T00:26:51Z",
+ "started_at": "2026-10-01T20:20:00Z",
+ "exported_at": "2026-10-01T22:41:34Z",
  "package_sha256": {
   "codebook-v2.md": "7c2356bd83bc3919021b80cda4fab595af9926cbf80f0c0f30d8a3015a5f16d0",
   "coding-template-incidents.csv": "9f147af591ad9673fffab5f0c3922006789ac19e28bf0d9c149824f3321aedc1",
